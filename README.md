@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Here is the [link](https://chungkok.github.io/timeTravel/) to this exciting biomarkers
+Here is the [link](https://ash.confex.com/ash/2018/webprogram/Paper117633.html) for the ASH abstract 2018.
 
 You can use the [editor on GitHub](https://github.com/chungkok/CML_bioassays/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
